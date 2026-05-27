@@ -22,4 +22,4 @@ CERTA RESPOSTA: 44
 ```
 
 ## Como executar
-Recomendo executar/compilar pelo VSCode (caso já esteja configurado), Dev-C++ no caso do C++, ou utilizar compiladores online como o [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) ou o [OnlinePHP](https://onlinephp.io)
+Recomendo executar pelo VSCode (caso já esteja configurado), Dev-C++ no caso do C++, ou utilizar compiladores online como o [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) ou o [OnlinePHP](https://onlinephp.io)
